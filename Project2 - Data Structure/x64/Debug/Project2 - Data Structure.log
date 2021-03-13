@@ -1,0 +1,10 @@
+﻿  BinaryTree.cpp
+  Graph.cpp
+  Main.cpp
+C:\Users\Kênia\Desktop\Projetos\Project2 - Data Structure\Project2 - Data Structure\Main.cpp(122,36): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Kênia\Desktop\Projetos\Project2 - Data Structure\Project2 - Data Structure\Main.cpp(123,43): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Kênia\Desktop\Projetos\Project2 - Data Structure\Project2 - Data Structure\Main.cpp(158,36): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Kênia\Desktop\Projetos\Project2 - Data Structure\Project2 - Data Structure\Main.cpp(159,43): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  Generating Code...
+C:\Users\Kênia\Desktop\Projetos\Project2 - Data Structure\Project2 - Data Structure\BinaryTree.cpp(32): warning C4715: 'BinaryTree::recursiveSearch': not all control paths return a value
+  Project2 - Data Structure.vcxproj -> C:\Users\Kênia\Desktop\Projetos\Project2 - Data Structure\x64\Debug\Project2 - Data Structure.exe
